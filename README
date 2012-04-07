@@ -1,0 +1,3 @@
+Simple SpecFlow/BDD project
+
+Opens up Google.com in IE, searches for a term and then checks the result page for the value. Nothing too fancy but a good grounding
